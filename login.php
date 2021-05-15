@@ -57,7 +57,7 @@ if(isset($_POST["login"])){
     </head>
     <body>
         <nav class="navtop">
-            <h1>Halaman Login</h1>
+            <h1 class="h1">Halaman Login</h1>
         </nav>
 
         <div class="content">
